@@ -26,6 +26,8 @@
 ### 📫 Свържи се с мен 
 [![Discord](https://img.shields.io/badge/Discord-danielbg__14-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/853017702784040980) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-danielbg14-181717?style=for-the-badge&logo=github)](https://github.com/danielbg14) <br>
-[![Instagram](https://img.shields.io/badge/Instagram-danielbg__14-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielbg_14)  
+[![Instagram](https://img.shields.io/badge/Instagram-danielbg__14-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielbg_14) 
+
+![VIEWERS](https://visitor-badge.laobi.icu/badge?page_id=danielbg14.danielbg14)
 
 _*В процес на разработка!*_
