@@ -6,10 +6,10 @@
 
 ### 🔥 Технологии, с които се занимавам:
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/QBcore-4285F4?style=for-the-badge&logo=fivem&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=orange" alt="Linux Logo"></a>
+    <a href="https://qbcore.net/" target="_blank"><img src="https://img.shields.io/badge/QBcore-4285F4?style=for-the-badge&logo=fivem&logoColor=white" alt="QBCore Logo"></a>
+    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Logo"></a>
 </p>
 
 ---
