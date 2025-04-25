@@ -27,6 +27,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-danielbg14-181717?style=for-the-badge&logo=github)](https://github.com/danielbg14) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-danielbg__14-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielbg_14) 
 
-### ![VIEWERS](https://visitor-badge.laobi.icu/badge?page_id=danielbg14.danielbg14)
+### VIEWERS https://visitor-badge.laobi.icu/badge?page_id=danielbg14.danielbg14
 
 _*В процес на разработка!*_
