@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Последен проект
-[![NextJS Website](https://img.shields.io/badge/NextJS-Website-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/danielbg14/nextjs-website)  
+[![NextJS Website](https://img.shields.io/badge/NextJS-Website-black?style=for-the-badge&logo=next.js&logoColor=white)]()  
 **Secret Infinity RP** — уеб страница на FiveM сървър, изградена с Next.js, с интерактивни елементи и модерна визия.  
 - 🛠 Използвани технологии: Next.js, React, TailwindCSS
 - 📅 Пуснат: Декември 2025  
