@@ -9,8 +9,19 @@
     <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=orange" alt="Linux Logo"></a>
     <a href="https://qbcore.net/" target="_blank"><img src="https://img.shields.io/badge/QBcore-4285F4?style=for-the-badge&logo=fivem&logoColor=white" alt="QBCore Logo"></a>
     <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Logo"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS Logo"></a>
+    <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Logo"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"></a>
 </p>
+
+---
+
+### 🚀 Последен проект
+[![NextJS Website](https://img.shields.io/badge/NextJS-Website-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/danielbg14/nextjs-website)  
+**Secret Infinity RP** — уеб страница на FiveM сървър, изградена с Next.js, с интерактивни елементи и модерна визия.  
+- 🛠 Използвани технологии: Next.js, React, TailwindCSS
+- 📅 Пуснат: Декември 2025  
+- 🌐 [Виж проекта](https://secretinfinityrp.com/)
 
 ---
 
