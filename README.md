@@ -14,17 +14,6 @@
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"></a>
 </p>
 
----
-
-### 🚀 Последен проект
-[![NextJS Website](https://img.shields.io/badge/NextJS-Website-black?style=for-the-badge&logo=next.js&logoColor=white)](https://secretinfinityrp.com/)  
-**Secret Infinity RP** — уеб страница на FiveM сървър, изградена с Next.js, с интерактивни елементи и модерна визия.  
-- 🛠 Използвани технологии: Next.js, React, TailwindCSS
-- 📅 Пуснат: Декември 2025  
-- 🌐 [Виж проекта](https://secretinfinityrp.com/)
-
----
-
 <!-- ### 🏆 GitHub Статистики
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielbg14&show_icons=true&theme=tokyonight" height="165">
