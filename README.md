@@ -25,12 +25,12 @@
 
 ---
 
-### 🏆 GitHub Статистики
+<!-- ### 🏆 GitHub Статистики
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielbg14&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbg14&layout=compact&theme=tokyonight" height="165">
 </p>
-
+-->
 ---
 
 ### 📫 Свържи се с мен 
