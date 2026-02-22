@@ -1,32 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=36&pause=1000&color=FFFFFF&repeat=false&width=600&height=84&lines=%F0%9F%91%8B+%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D0%B9%D1%82%D0%B5%2C+%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0%D0%BC+%D1%81%D0%B5+%D0%94%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=36&pause=1000&color=FFFFFF&repeat=false&width=600&height=84&lines=%F0%9F%91%8B+Hello,+my+name+is+Daniel.)](https://git.io/typing-svg)
 
-🎮 Гейминг | 💻 Кодиране
+🎮 Gaming | 💻 Backend & Linux Enthusiast
 
 ---
 
-### 🔥 Технологии, с които се занимавам:
-<p align="center">
-    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=orange" alt="Linux Logo"></a>
-    <a href="https://qbcore.net/" target="_blank"><img src="https://img.shields.io/badge/QBcore-4285F4?style=for-the-badge&logo=fivem&logoColor=white" alt="QBCore Logo"></a>
-    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS Logo"></a>
-    <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Logo"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"></a>
-</p>
+### 👨‍💻 About Me
+- 💡 Focused on backend development and Linux systems
+- 🔐 Practicing cybersecurity environments
+- 🐳 Working with Docker and databases
 
-<!-- ### 🏆 GitHub Статистики
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielbg14&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbg14&layout=compact&theme=tokyonight" height="165">
-</p>
--->
 ---
 
-### 📫 Свържи се с мен 
+### 🔥 Tech Stack
+
+<div align="center">
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Ubuntu Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" height="60" alt="Kali Linux Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="NodeJS Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker Logo" /></a>
+</div>
+
+---
+
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=danielbg14&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielbg14&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+### 📫 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-danielbg__14-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/853017702784040980) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-danielbg14-181717?style=for-the-badge&logo=github)](https://github.com/danielbg14) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-danielbg__14-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielbg_14) 
 
 ![VIEWERS](https://visitor-badge.laobi.icu/badge?page_id=danielbg14.danielbg14)
 
-_*В процес на разработка!*_
+_*Work in Progress!*_
