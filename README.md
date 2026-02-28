@@ -24,6 +24,8 @@
   <span style="width:12px;display:inline-block;"></span>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS Logo" /></a>
   <span style="width:12px;display:inline-block;"></span>
+  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript Logo" /></a>
+  <span style="width:12px;display:inline-block;"></span>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL Logo" /></a>
   <span style="width:12px;display:inline-block;"></span>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker Logo" /></a>
